@@ -1,0 +1,5 @@
+sku,title,category,style,brand,abv,size,price,inventory,description,imageUrl
+BT-750,Buffalo Trace Bourbon,Spirits,Bourbon,Buffalo Trace,45,750ml,31.99,7,Rich vanilla toffee & fruit,https://images.unsplash.com/photo-1604908554029-e5f2f6a7c5e6
+MM-750,Maker's Mark Bourbon,Spirits,Bourbon,Maker's Mark,45,750ml,27.99,12,Classic wheated bourbon caramel & vanilla,https://images.unsplash.com/photo-1608889175652-1f8a8b1e2324
+SABC-6,Scofflaw Basement IPA,Beer,IPA,Scofflaw,7.5,6pk,12.99,18,Hazy juicy Atlanta IPA,https://images.unsplash.com/photo-1541544181051-16b5e2291b3b
+CA-750,Coppola Diamond Cabernet,Wine,Cabernet Sauvignon,Coppola,13.5,750ml,14.99,9,Blackberry cherry vanilla,https://images.unsplash.com/photo-1541976076758-347942db197b
